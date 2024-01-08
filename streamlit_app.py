@@ -1,4 +1,4 @@
-from streamlit as st
+import streamlit as st
 
 chat_msg = st.chat_message("user")
 
