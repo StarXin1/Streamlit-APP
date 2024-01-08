@@ -5,3 +5,5 @@ chat_msg.write("这是一个聊天框~")
 
 container = chat_msg.container()
 container.write("这个容器在聊条框里面吗？")
+
+st.write("这个消息在聊天框外面吗？")
